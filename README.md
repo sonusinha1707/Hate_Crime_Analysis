@@ -53,7 +53,7 @@ Then, open the Streamlit-provided local URL in your browser.
 
 ## 📌 About the Dashboard
 
-"This dashboard presents an analysis of caste-related crimes in India, focusing on data from 2001 to 2013. It offers insights into how crimes against SCs and STs were distributed across regions during this period. Despite legal protections such as the SC/ST Act of 1989, caste-based violence has remained prevalent. This tool helps highlight the historical context and ongoing challenges for these marginalized communities."
+This dashboard presents an analysis of caste-related crimes in India, focusing on data from 2001 to 2013. It offers insights into how crimes against SCs and STs were distributed across regions during this period. Despite legal protections such as the SC/ST Act of 1989, caste-based violence has remained prevalent. This tool helps highlight the historical context and ongoing challenges for these marginalized communities.
 
 ---
 
