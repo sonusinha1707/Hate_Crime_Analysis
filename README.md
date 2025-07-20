@@ -1,6 +1,8 @@
 
 # 📊 Caste-Based Crime Analysis Dashboard (2001–2013)
 
+![banner](https://github.com/sonusinha1707/Hate_Crime_Analysis/blob/main/hate_crime.png)
+
 This project is an **interactive data dashboard** built using **Streamlit** and **Plotly** for analyzing caste-related crimes in India from 2001 to 2013. It visualizes patterns of crimes against **Scheduled Castes (SC)** and **Scheduled Tribes (ST)** across Indian states and districts.
 
 ---
